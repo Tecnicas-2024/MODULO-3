@@ -1,0 +1,92 @@
+---
+title: "**Técnicas y Herramientas Modernas I-Gemelos Digitales**"
+author: "Futuros Ingenieros"
+date: "8 de mayo del 2024"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+fontsize: 12pt
+lang: es-MX
+toc: TRUE    
+---
+\pagebreak
+# Introducción
+## Gemelos Digitales y la Industria 4.0
+Los gemelos digitales hacen referencia a una tecnología de software con el que se trata de representar digitalmente una realidad física, bien sea esta un producto, proceso o sistema; misma que a la par se apoya en otros recursos tecnológicos tales como: Big Data, IoT, Inteligencia Artificial, Cloud Computing y Machine Learning, entre otras, con la finalidad de proporcionar herramientas para la toma de decisiones, implementando adicionalmente capacidades de simulación y predicción.La evolución de los GD estará estrechamente vinculada a la propia evolución tecnológica y a la, cada vez mayor, admisión en distintas áreas e infraestructuras digitales en industrias, productos, ciudades y otras.
+
+![](sist.png)
+Las tecnologías digitales están transformando los sectores portuarios al abordar desafíos como la gestión de espacios limitados y cambios en los hábitos de consumo. Los gemelos digitales, representaciones virtuales de objetos o procesos, emergen como herramientas clave en esta revolución. Permiten simular diferentes escenarios sin riesgos reales, desde la gestión de puertos hasta tratamientos médicos. Sin embargo, también plantean riesgos, como la brecha tecnológica entre países. Este artículo explora el potencial de los gemelos digitales en América Latina y el Caribe, abordando su aplicación en la logística portuaria y ofreciendo recomendaciones para su implementación.
+
+La cuarta revolución industrial está transformando los procesos de producción hacia una mayor interconectividad, optimización del tiempo y recursos, impulsando la innovación para mantener la competitividad. Los gemelos digitales, fundamentales en la industria 4.0, permiten la digitalización de fábricas y procesos para mejorar la eficiencia. La combinación de recopilación y análisis de datos con inteligencia artificial fortalece la importancia de los gemelos digitales, ofreciendo representaciones precisas del estado actual del sistema real. Estos gemelos proporcionan beneficios como el diseño de productos más eficientes, reducción del tiempo de comercialización, mantenimiento predictivo, planificación de escenarios futuros y mejora generalizada de la calidad. Además, la digitalización económica puede promover la economía circular al optimizar procesos productivos y fomentar la responsabilidad social corporativa.
+
+![Revolución 4.0 y las nuevas tecnologías](4.0.png)
+
+# Digitalización en puertos:aplicación de gemelos digitales en la complejidad logística
+
+![](CAMION.png)
+
+## Puertos inteligentes: innovación y digitalización en la logística portuaria
+
+En la logística y el transporte marítimo, los gemelos digitales son herramientas que replican digitalmente activos físicos y operaciones en tiempo real. Estos gemelos se utilizan para una variedad de propósitos, como la gestión de flotas de contenedores y la monitorización de envíos.
+
+Estos no solo se aplican a activos individuales, sino también a redes completas como almacenes y puertos. Esto significa que pueden proporcionar una visión general del estado de las máquinas, el inventario y hacer predicciones para mejorar la eficiencia y la toma de decisiones. Se espera que el mercado de esta tecnología crezca significativamente en los próximos años.
+
+En el ámbito marítimo, los datos generados por los contenedores inteligentes son fundamentales para optimizar el transporte y la logística en los puertos. Los gemelos digitales permiten anticipar situaciones y generar beneficios en costos y capacidad operativa. También mejoran la toma de decisiones y facilitan la elaboración de normas para integrar las operaciones de la cadena de suministro.
+
+Tres áreas principales en el sector marítimo que se benefician con los gemelos digitales: optimización de flotas, puertos y terminales. Esto mejora el conocimiento de la situación para las partes interesadas y optimiza la cadena de suministro de extremo a extremo. Estos gemelos permiten a las compañías de navegación y otros sectores del transporte tomar decisiones más informadas y coordinar mejor sus operaciones.
+
+
+## Impactos sociales de la digitalización y del desarrollo tecnológico
+
+La transformación digital está cambiando la forma en que las empresas operan y hacen negocios. Esto va más allá de simplemente usar tecnología, implica cambios culturales y estratégicos para competir en un mundo cada vez más digitalizado.
+
+Uno de los principales desafíos de esta transformación es el temor al desempleo causado por la automatización de tareas, lo que podría disminuir la necesidad de trabajadores humanos. Sin embargo, también hay una creciente demanda de profesionales con habilidades en tecnología e informática.
+
+Para comprender mejor el impacto de la digitalización, se utilizan indicadores como la conectividad, las habilidades digitales de la población, internet, la digitalización de empresas y el acceso a servicios públicos digitales.
+
+A medida que las empresas se adaptan a la tecnología, surgen nuevos empleos especializados, como científico de datos, especialista en ciberseguridad y en experiencia de usuario. Sin embargo, algunas empresas enfrentan barreras para adoptar tecnologías como gemelos digitales debido a los costos y la complejidad.
+
+Esto podría dejar fuera del proceso de digitalización a pequeñas y medianas empresas, pero hay iniciativas en desarrollo que buscan hacer que estas tecnologías sean más accesibles para ellas.
+
+
+## Recomendaciones y consideraciones finales
+
+Empresas y países son muy dependientes de cadenas de suministro resilientes, eficientes y con plena visibilidad en el transporte. La falta de información puede dar lugar a considerables demoras que pueden comprometer o, en el peor de los casos, hacer bajar o hasta anular el valor de las mercaderías enviadas.
+
+Los conocimientos basados en los datos van a permitir a los puertos simular de antemano y estimar la hora exacta de llegada de los buques para planificar. Esto también permitirá a las partes interesadas ajustar sus recursos y operaciones.
+La aplicación de gemelos digitales permite beneficios relativos a la reducción de costos gracias al mantenimiento predictivo, a la detección de cuellos de botella o desequilibrios de capacidades, que permiten evitar segmentos o nichos perjudiciales en el ecosistema en tratamiento.
+
+El auge del comercio ha impuesto nuevos estándares y requerimientos a los métodos de carga y transporte, así como a los mismos puertos. Estos patrones de crecimiento tienen grandes implicaciones para los puertos —mayores requerimientos de espacio, energía, capacidad logística, dotación de personal— las cuales han complicado las relaciones entre el puerto y la ciudad.
+
+Dada la complejidad de este contexto, se impone la incorporación de la tecnología de gemelos digitales, con todos sus componentes e interfaces; la cual puede aplicarse desde la fase de diseño hasta la operación cotidiana.
+
+**Cita del boletín:** APA Aita, D. (2022). Digitalización en puertos: aplicación de gemelos digitales en la complejidad logística.
+
+## Material software gemelos digitales
+
+Utilizamos el software Simul8 propuesto por la catedra.
+
+![Software](simul.png)
+
+Esta herramienta nos permitio analizar la digitalización en puertos atravez del ejemplo ya predeterminado en el software de un aeropuerto.
+
+![Configuración](conf.png)
+
+**Decidimos simular un total de 50 avion = 50 contenedores que arriban por hora, con un maximo de 20 aviones = contenedores en circulación.**
+
+Dejamos correr el programa por unos minutos y estos fueron los resultados:
+
+![](resul.png)
+
+Como podemos observar se cumplio que el numero total de contenedores en circulacion fue de 20 en todo momento.
+
+El número total de contenedores luego de esos minutos que dejamos correr el programa fue:
+
+- Arribbando : 26
+- En el puerto : 34
+- Esperando a que se despeje el muelle y grúas :14
+- Redireccionados : 2
+- Arribados y dirigidos : 465
+
+
