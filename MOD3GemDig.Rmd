@@ -1,0 +1,217 @@
+---
+title: "**Técnicas y Herramientas Modernas I-Gemelos Digitales**"
+author: "Futuros Ingenieros"
+date: "4 de junio del 2024"
+output:
+  pdf_document: default
+  html_document: 
+    df_print: paged
+fontsize: 12pt
+lang: es-MX
+toc: TRUE 
+bibliography: references.bib
+---
+
+\pagebreak
+
+# Introducción
+
+## Gemelos Digitales y la Industria 4.0
+
+Los gemelos digitales hacen referencia a una tecnología de software con el que se trata de representar digitalmente una realidad física, bien sea esta un producto, proceso o sistema; misma que a la par se apoya en otros recursos tecnológicos tales como: Big Data, IoT, Inteligencia Artificial, Cloud Computing y Machine Learning, entre otras, con la finalidad de proporcionar herramientas para la toma de decisiones, implementando adicionalmente capacidades de simulación y predicción.La evolución de los GD estará estrechamente vinculada a la propia evolución tecnológica y a la, cada vez mayor, admisión en distintas áreas e infraestructuras digitales en industrias, productos, ciudades y otras.
+
+```{r}
+
+```
+
+![](sist.png) Las tecnologías digitales están transformando los sectores portuarios al abordar desafíos como la gestión de espacios limitados y cambios en los hábitos de consumo. Los gemelos digitales, representaciones virtuales de objetos o procesos, emergen como herramientas clave en esta revolución. Permiten simular diferentes escenarios sin riesgos reales, desde la gestión de puertos hasta tratamientos médicos. Sin embargo, también plantean riesgos, como la brecha tecnológica entre países. Este artículo explora el potencial de los gemelos digitales en América Latina y el Caribe, abordando su aplicación en la logística portuaria y ofreciendo recomendaciones para su implementación.
+
+La cuarta revolución industrial está transformando los procesos de producción hacia una mayor interconectividad, optimización del tiempo y recursos, impulsando la innovación para mantener la competitividad. Los gemelos digitales, fundamentales en la industria 4.0, permiten la digitalización de fábricas y procesos para mejorar la eficiencia. La combinación de recopilación y análisis de datos con inteligencia artificial fortalece la importancia de los gemelos digitales, ofreciendo representaciones precisas del estado actual del sistema real. Estos gemelos proporcionan beneficios como el diseño de productos más eficientes, reducción del tiempo de comercialización, mantenimiento predictivo, planificación de escenarios futuros y mejora generalizada de la calidad. Además, la digitalización económica puede promover la economía circular al optimizar procesos productivos y fomentar la responsabilidad social corporativa.
+
+![Revolución 4.0 y las nuevas tecnologías](4.0.png) \pagebreak
+
+# PROBLEMATICA
+
+La implementación de gemelos digitales en puertos marítimos presenta diversas problemáticas que deben abordarse para garantizar una adopción efectiva y eficiente de esta tecnología.
+
+Principales desafíos:
+
+#### 1. **Complejidad Tecnológica**
+
+La creación de un gemelo digital de un puerto marítimo requiere la integración de múltiples tecnologías avanzadas, como el Internet de las Cosas (IoT), la inteligencia artificial (IA), el big data y la realidad aumentada/virtual. Esta complejidad tecnológica puede resultar en altos costos iniciales y en la necesidad de contar con personal altamente capacitado para gestionar y mantener estos sistemas.
+
+#### 2. **Interoperabilidad y Estándares**
+
+La interoperabilidad entre diferentes sistemas y plataformas es crucial para el éxito de los gemelos digitales. Los puertos marítimos a menudo utilizan una variedad de sistemas de gestión y monitoreo que pueden no ser compatibles entre sí. La falta de estándares unificados puede dificultar la integración de los gemelos digitales con los sistemas existentes, limitando su efectividad.
+
+#### 3. **Seguridad y Privacidad**
+
+Los gemelos digitales recopilan y procesan grandes cantidades de datos sensibles, lo que plantea serias preocupaciones de seguridad y privacidad. Los ciberataques pueden comprometer la integridad de los datos y la operatividad del puerto, causando interrupciones significativas y potenciales pérdidas económicas. Además, la protección de los datos personales y comerciales es un aspecto crítico que requiere medidas robustas de ciberseguridad.
+
+#### 4. **Costos y Retorno de Inversión**
+
+La implementación de gemelos digitales implica una inversión considerable en infraestructura tecnológica, software y capacitación de personal. Determinar el retorno de inversión (ROI) puede ser complicado, especialmente en los primeros años, ya que los beneficios tangibles pueden tardar en materializarse. Las autoridades portuarias y los operadores deben evaluar cuidadosamente los costos y los beneficios potenciales antes de comprometerse con esta tecnología.
+
+#### 5. **Resistencia al Cambio**
+
+El sector portuario, tradicionalmente conservador y reacio al cambio, puede enfrentar resistencia por parte del personal y los stakeholders a la adopción de nuevas tecnologías. La introducción de gemelos digitales requiere un cambio significativo en la forma en que se gestionan y operan los puertos, lo que puede generar resistencia debido a la incertidumbre y la falta de familiaridad con la tecnología.
+
+#### 6. **Escalabilidad**
+
+La escalabilidad de los gemelos digitales es otro desafío importante. Los puertos marítimos varían en tamaño y complejidad, y lo que funciona para un puerto pequeño puede no ser aplicable a un puerto de gran escala. Adaptar los gemelos digitales para que sean efectivos en diferentes contextos y escalas puede ser un proceso complicado y costoso.
+
+#### 7. **Regulaciones y Cumplimiento Normativo**
+
+Los puertos marítimos operan bajo estrictas regulaciones internacionales y nacionales. La implementación de gemelos digitales debe cumplir con todas las normativas vigentes, lo que puede implicar complicaciones legales y burocráticas. Además, la falta de regulaciones específicas para los gemelos digitales puede generar incertidumbre sobre las mejores prácticas y los estándares a seguir.
+
+# HIPÓTESIS
+
+La implementación de gemelos digitales en puertos marítimos tiene el potencial de revolucionar la gestión y operación portuaria al proporcionar una representación virtual y en tiempo real de todas las actividades y recursos portuarios. Se espera que el uso de gemelos digitales optimice la eficiencia operativa, mejore la seguridad, reduzca los tiempos de espera y aumente la capacidad de gestión de emergencias en los puertos marítimos.
+
+# Desarrollo
+
+# Digitalización en puertos:aplicación de gemelos digitales en la complejidad logística
+
+![](CAMION.png)
+
+## Puertos inteligentes: innovación y digitalización en la logística portuaria
+
+En la logística y el transporte marítimo, los gemelos digitales son herramientas que replican digitalmente activos físicos y operaciones en tiempo real. Estos gemelos se utilizan para una variedad de propósitos, como la gestión de flotas de contenedores y la monitorización de envíos.
+
+Estos no solo se aplican a activos individuales, sino también a redes completas como almacenes y puertos. Esto significa que pueden proporcionar una visión general del estado de las máquinas, el inventario y hacer predicciones para mejorar la eficiencia y la toma de decisiones. Se espera que el mercado de esta tecnología crezca significativamente en los próximos años.
+
+En el ámbito marítimo, los datos generados por los contenedores inteligentes son fundamentales para optimizar el transporte y la logística en los puertos. Los gemelos digitales permiten anticipar situaciones y generar beneficios en costos y capacidad operativa. También mejoran la toma de decisiones y facilitan la elaboración de normas para integrar las operaciones de la cadena de suministro.
+
+[@aita_digitalizacion_2022]
+
+Según Wang et al. en [3], hay un total de cinco pasos para el modelado de sistemas complejos basado en la DT, haciendo hincapié en los puertos, que se ilustran en la Figura 1.
+
+![Etapas de implementación de Digital Twin. Tomado de Wang et al. en (3)](PASOS.png)
+
+[@klar2024digital]
+
+Otra manera de analizar la cadena de suministro segun [@klar2023digital] es:
+
+![](cadenasum.png)
+
+Ademas [@klar2024digital]
+
+![Nos brinda una visión general de las principales operaciones portuarias y de los agentes implicados.](est1.png)
+
+La figura 2 ofrece una visión general del puerto, incluidos sus principales procesos operativos y los correspondientes agentes implicados. Un puerto consta de una o varias terminales que atienden las necesidades de distintos tipos de carga. Esta tesis se centra en las terminales de contenedores, que se caracterizan por su huella, incluidos muelles, zonas de patio, equipos como grúas y otras instalaciones de apoyo.
+
+[@klar2024digital] Ofrece un esquema de un gemelo digital atraves de la figura 3 en el contexto del puerto e incluye sus principales componentes. Presenta un ciclo que comienza con la recopilación de datos (en tiempo real), el almacenamiento, el preprocesamiento posterior y el análisis de los datos mediante el aprendizaje automático y otros modelos para obtener información a partir de los datos.A continuación, estos conocimientos se utilizan para permitir una toma de decisiones inteligente, tanto para operaciones portuarias específicas como para el puerto en su conjunto. Las herramientas de apoyo a la toma de decisiones permiten resolver los principales problemas operativos del puerto, como se muestra en la figura 2, sobre la base de la toma de decisiones basada en datos.
+
+![Modelos necesarios de un gemelo digital portuario](estruc.png)
+
+[@portsaustralia2022digital]Nos presneta: "Output Placemat" la cual es una herramienta que permite alinear la visión, el valor, la función, los casos de uso y los habilitadores relacionados con los gemelos digitales en el contexto portuario. Esta herramienta es crucial para garantizar que todas las partes interesadas estén en la misma página y comprendan claramente cómo los gemelos digitales pueden agregar valor y cumplir con los objetivos establecidos. Al alinear estos elementos, se puede lograr una implementación efectiva y exitosa de los gemelos digitales en el sector portuario. Proporciona una visión general visual y estructurada de cómo estos elementos se entrelazan y contribuyen mutuamente al éxito del proyecto de gemelos digitales en un puerto específico.
+
+!["Output Placemat"](out.png)
+
+## 3D CityScapes
+
+Gemelo digital desarrollado por [@noauthor_our_nodate]
+
+Los puertos de contenedores son un elemento esencial dentro de la red de la cadena de suministro logística. Por supuesto, una infraestructura portuaria global ocupada contendrá muchos componentes diferentes, tales como:
+
+-   Almacenes
+-   Grúas y equipos para amarre, atraque, descarga y carga
+-   Contenedores
+-   Buques
+-   Embarques
+-   Camiones y camionetas
+-   Furgonetas de reparto
+-   Centros aeroportuarios
+-   Terminales ferroviarias, etc.
+
+Por lo tanto, para un puerto, un Gemelo Digital será la réplica completa de la red física de la cadena de suministro, pero de forma virtual. El diseño y la creación de un Gemelo Digital permitirá a las autoridades portuarias simular el proceso de construcción y operación y visualizar los diversos elementos de infraestructura en tiempo real.
+
+El 3D CityScapes es un gemelo digital muy avanzado en este ámbito, la tecnología de Gemelo Digital se compone de un motor de videojuego, inteligencia artificial, fotogrametría y sistemas de transmisión. Unreal Engine es uno de los mejores motores de videojuegos que permite un nivel de interactividad y calidad sin precedentes. La inteligencia artificial apoya la creación de entornos 3D interactivos y los objetos dentro de ellos. La fotogrametría les permite construir entornos más lejanos para ayudar con el diseño del entorno digital. Los sistemas de transmisión brindan una forma para que los usuarios finales transmitan su contenido a cualquier plataforma en cualquier dispositivo del mundo a través de una conexión a internet.
+
+**3D CityScapes toma grandes volúmenes de datos y luego los conecta a un entorno en vivo, lo que permite pronósticos precisos, análisis predictivo y brinda a los empleados y gerentes una transparencia completa**
+
+![Captura del software 3D CityScapes](ur.png)
+
+Los puertos están experimentando un gran crecimiento digital, pero enfrentan diferentes desafíos:
+
+-   Seguridad: Los puertos carecen de plataformas virtuales para mostrar actividades en tiempo real. Un gemelo digital brindaría transparencia y seguridad a las autoridades y empleados.
+
+-   Monitoreo y mantenimiento: Un gemelo digital permite monitorear todas las operaciones del puerto, predecir flujos de agua, problemas de carga y detectar problemas en barcos. Esto ayuda a optimizar costos, mejorar la satisfacción del cliente y generar nuevas fuentes de ingresos.Una problemática son las congestiones dada la falta de recursos para procesar carga crea cuellos de botella.La utilización de sensores conectados a Internet (IoT) integrados en grúas, equipos y terminales proveen datos para predecir necesidades de mantenimiento. Esto permite a los ingenieros detectar fallas y/o problemas antes de que ocurran y trabajar de forma más segura al no tener que revisar el equipo manualmente.
+
+-   Medio Ambiente: Los puertos deben cumplir con regulaciones ambientales cambiantes. Un gemelo digital permite monitorear la calidad del agua, aire y ruido en tiempo real para lograr un mejor cumplimiento.
+
+Tres áreas principales en el sector marítimo que se benefician con los gemelos digitales:
+
+1)  **La optimización de las flotas, puertos y terminales**
+2)  **El aumento del conocimiento de la situación de las principales partes interesadas**
+3)  **La optimización de la cadena de suministro de extremo a extremo**
+
+Estos desafíos y áreas se ven abordados por la utilización del gemelo deigital 3D CityScapes.
+
+Un ejemplo de aplicaion real es:
+
+[@noauthor_what_nodate]
+
+**El Puerto Digital en Práctica - Livorno**
+
+Livorno es un importante puerto regional en la costa noroeste de Italia, cerca de la histórica ciudad de Pisa. El puerto maneja una amplia variedad de embarcaciones con una capacidad de tráfico anual de alrededor de 30 millones de toneladas de carga y 600,000 TEU. 
+
+Desde 2016, el puerto ha estado trabajando para diseñar e implementar su infraestructura tecnológica, utilizando comunicaciones 5G, inteligencia artificial y un Gemelo Digital. Cada área dentro del puerto ha sido modelada virtualmente para replicar los elementos físicos, como el área del puerto exterior para el almacenamiento de carga general, contenedores de carga, cámaras de monitoreo, etc. Almacenar y ubicar mercancías con precisión y eficiencia es fundamental para las operaciones logísticas dentro de un puerto de contenedores ocupado. Utilizando cámaras de Rango Dinámico Amplio (WDR), se pueden capturar y transmitir todos los aspectos de las actividades diarias. Las cámaras operan en todas las condiciones climáticas y en diferentes momentos del día. El puerto de Livorno está llevando la tecnología un paso más allá, incorporando aplicaciones de Realidad Virtual (VR). Esto permite a los operadores navegar virtualmente dentro del modelo del Gemelo Digital y experimentar una visión completa de toda el área del puerto digital. 
+
+¿Cuáles son los beneficios proyectados? La recopilación de una gran cantidad de datos utilizando la infraestructura de comunicaciones, disponible en tiempo real, combinada con la modelización del Gemelo Digital se proyecta que mejore las eficiencias en la capacidad de almacenamiento, reduzca los tiempos de carga/descarga de los barcos de carga general, lo que en última instancia resultará en ahorros de costos y emisiones de carbono más bajas.
+
+En esta tabla podremos encontrar una lista de los disntintos casos de aplicaciones de gemelos en puertos que se pueden adjuntar a este ejemplo:
+
+![](TABLA1.png) ![](TABLA2.png)
+
+[@neugebauer2024digital]
+
+## Simul8
+
+Como estudiantes de ingeniería, propusimos el uso de un software básico pero ideal para el entendimiento del funcionamiento de un gemelo digital en un puerto. El cual es ideal desde un punto de vista sencillo para que estudiantes o personas que no esten familiarizadas con este tema comprendan como el uso de un gemelo básico puede ser fundamental a la hora comprender y mejorar la administración de un puerto.
+
+Utilizamos el software Simul8 propuesto por la catedra.
+
+![Software](simul.png)
+
+Esta herramienta nos permitio analizar la digitalización en puertos atravez del ejemplo ya predeterminado en el software de un aeropuerto.
+
+![Configuración](conf.png)
+
+**Decidimos simular un total de 50 avion = 50 contenedores que arriban por hora, con un maximo de 20 aviones = contenedores en circulación.**
+
+Dejamos correr el programa por unos minutos y estos fueron los resultados:
+
+![](resul.png)
+
+Como podemos observar se cumplio que el numero total de contenedores en circulacion fue de 20 en todo momento.
+
+El número total de contenedores luego de esos minutos que dejamos correr el programa fue:
+
+-   Arribbando : 26
+-   En el puerto : 34
+-   Esperando a que se despeje el muelle y grúas :14
+-   Redireccionados : 2
+-   Arribados y dirigidos : 465
+
+Cabe resaltar que el uso de este software fue simplemente descriptivo ya que es un software muy básico como para llevar a cabo simulaciones de un puerto en la vida real.
+
+# CONCLUSIÓN
+
+## Recomendaciones y consideraciones finales
+
+Empresas y países son muy dependientes de cadenas de suministro resilientes, eficientes y con plena visibilidad en el transporte. La falta de información puede dar lugar a considerables demoras que pueden comprometer o, en el peor de los casos, hacer bajar o hasta anular el valor de las mercaderías enviadas.
+
+El auge del comercio ha impuesto nuevos estándares y requerimientos a los métodos de carga y transporte, así como a los mismos puertos. Estos patrones de crecimiento tienen grandes implicaciones para los puertos —mayores requerimientos de espacio, energía, capacidad logística, dotación de personal— las cuales han complicado las relaciones entre el puerto y la ciudad.
+
+Los conocimientos basados en los datos van a permitir a los puertos simular de antemano y estimar la hora exacta de llegada de los buques para planificar. Esto también permitirá a las partes interesadas ajustar sus recursos y operaciones.
+
+La aplicación de gemelos digitales permite beneficios relativos a la reducción de costos gracias al mantenimiento predictivo, a la detección de cuellos de botella o desequilibrios de capacidades, que permiten evitar segmentos o nichos perjudiciales en el ecosistema en tratamiento.
+
+Dada la complejidad de este contexto, se impone la incorporación de la tecnología de gemelos digitales, con todos sus componentes e interfaces; la cual puede aplicarse desde la fase de diseño hasta la operación cotidiana.
+
+Cuanto mayor sea la conexión entre los dispositivos y los datos generados por diversos casos de uso (por ejemplo, tiempo de tránsito ejecutado, alertas de desviación y utilización de la infraestructura asociada a los movimientos y operaciones de los contenedores), los flujos de datos digitales ofrecen más oportunidades para la representación y simulación en tiempo real de situaciones auténticas.Esto mejora el conocimiento de la situación para las partes interesadas y optimiza la cadena de suministro de extremo a extremo. Estos gemelos permiten a las compañías de navegación y otros sectores del transporte tomar decisiones más informadas y coordinar mejor sus operaciones.
+
+La aplicación de gemelos digitales en puertos marítimos es no sólo posible, sino altamente beneficiosa para mejorar la eficiencia, seguridad y gestión de operaciones portuarias. El uso de gemelos digitales permite una representación virtual precisa y en tiempo real de todas las actividades y recursos portuarios, facilitando una mejor toma de decisiones y optimización de procesos. En este contexto, 3D CityScapes se destaca como un excelente gemelo digital para su implementación en puertos marítimos debido a su capacidad avanzada de simulación, análisis de datos en tiempo real, y su integración con tecnologías de Internet de las Cosas (IoT). La adopción de 3D CityScapes en los puertos puede resultar en una notable reducción de los tiempos de espera, una mejora en la gestión de emergencias y una optimización general de las operaciones portuarias, posicionando a los puertos que adopten esta tecnología a la vanguardia de la innovación y eficiencia logística.
+
+# Bibliografia consultada
